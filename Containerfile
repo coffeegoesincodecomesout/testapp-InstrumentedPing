@@ -9,4 +9,4 @@ RUN CGO_ENABLED=0 GOOS=linux go build -o /newtestapp
 
 EXPOSE 8090
 
-CMD ["./server"]
+CMD ["/newtestapp"]
