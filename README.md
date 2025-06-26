@@ -1,1 +1,1 @@
-Testapp-InstrumentedPing - I use this to demonstrate prometheus instrumentation
+testapp-InstrumentedPing - I use this to demonstrate prometheus instrumentation
